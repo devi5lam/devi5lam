@@ -1,2 +1,2 @@
 <!-- GitHub Analytics. -->
-<h2 align="left">GitHub Analytics:</h2>
+<h2 align="left">📈 GitHub Analytics:</h2>
