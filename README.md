@@ -10,6 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devi5lam&label=Profile%20views&color=0e75b6&style=flat" alt="devi5lam" />
   <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fdevi5lam">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/devi5lam">
 </p>
 
 <!-- Break. -->
