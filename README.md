@@ -26,6 +26,9 @@
 <!-- About Me. -->
 <h2 align="left">🖊️ About Me:</h2>
 
+<!-- Information. -->
+- 🔭 I’m currently working on **Geeks** – a modern and flexible app that combines entertainment and personal organization in one place.
+
 <!-- GIF. -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
