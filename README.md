@@ -36,6 +36,7 @@
 - 💬 Ask me about **React, styled-components, UI libraries, and building scalable project structures**.  
 - 📫 How to reach me: **[Your Email] · [LinkedIn] · [GitHub]**
 - 📄 Know about my experiences [Resume/CV](#)  
+- ⚡ Fun fact: I love wolves 🐺, horses 🐴, and my favorite color is a blueish-purple 💜.
 
 <!-- GIF. -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
