@@ -54,6 +54,9 @@
 	<a href="#" target="_blank">
 		<img src="./images/codeforces.png" alt="Codeforces"/>
 	</a>
+	<a href="#" target="_blank">
+		<img src="./images/leetcode.png" alt="LeetCode"/>
+	</a>
 </div>
 
 <!-- Break. -->
