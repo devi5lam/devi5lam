@@ -74,6 +74,12 @@
 <!-- Connect. -->
 <h2 align="left">Connect with me:</h2>
 
+<div align="left" width=100%>
+  <a href="devislam.q@gmail.com" target="_blank">
+    <img src="icons/gmail.svg" width="32" height="32" alt="gmail logo" />
+  </a>
+</div>
+
 <!-- Break. -->
 <br />
 
