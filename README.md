@@ -63,6 +63,9 @@
 	<a href="#" target="_blank">
 		<img src="./images/spoj.png" width="46" alt="spoj"/>
 	</a>
+	<a href="#" target="_blank">
+		<img src="./images/uva.png" width="43" alt="UVA"/>
+	</a>
 </div>
 
 <!-- Break. -->
