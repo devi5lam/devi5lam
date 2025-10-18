@@ -60,6 +60,9 @@
 	<a href="#" target="_blank">
 		<img src="./images/hackerrank.png" alt="hackerrank"/>
 	</a>
+	<a href="#" target="_blank">
+		<img src="./images/spoj.png" width="46" alt="spoj"/>
+	</a>
 </div>
 
 <!-- Break. -->
