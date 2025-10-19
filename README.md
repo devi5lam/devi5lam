@@ -76,7 +76,7 @@
 
 <div align="left" width=100%>
   <a href="devislam.q@gmail.com" target="_blank">
-    <img src="icons/gmail.svg" width="32" height="32" alt="gmail logo" />
+    <img src="" width="32" height="32" alt="Gmail" />
   </a>
 </div>
 
