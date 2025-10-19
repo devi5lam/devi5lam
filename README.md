@@ -52,7 +52,7 @@
 
 <div align="left" width=100%>
 	<a href="#" target="_blank">
-		<img src="./images/codeforces.png" alt="Codeforces"/>
+		<img src="" alt="Codeforces"/>
 	</a>
 	<a href="#" target="_blank">
 		<img src="./images/leetcode.png" alt="LeetCode"/>
