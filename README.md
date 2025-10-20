@@ -95,6 +95,9 @@
 <!-- Skills. -->
 <h2 align="left">Skills:</h2>
 
+<!-- Frontend Development. -->
+<h3 align="left">Frontend Development:</h3>
+
 <!-- Break. -->
 <br />
 
