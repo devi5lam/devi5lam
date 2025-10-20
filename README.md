@@ -80,7 +80,10 @@
   </a>
   <a href="" target="_blank">
     <img src="" width="32" height="32" alt="linkedin logo" />
-  </a>  
+  </a>
+  <a href="" target="_blank">
+    <img src="" width="32" height="32" alt="Facebook" />
+  </a>      
 </div>
 
 <!-- Break. -->
