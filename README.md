@@ -79,7 +79,7 @@
     <img src="" width="32" height="32" alt="Gmail" />
   </a>
   <a href="" target="_blank">
-    <img src="" width="32" height="32" alt="linkedin logo" />
+    <img src="" width="32" height="32" alt="Linkedin" />
   </a>
   <a href="" target="_blank">
     <img src="" width="32" height="32" alt="Facebook" />
