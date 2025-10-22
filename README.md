@@ -102,6 +102,7 @@
   <img src="" width="32" height="32" alt="HTML5" />
   <img src="" width="32" height="32" alt="CSS" />
   <img src="" width="32" height="32" alt="SASS" />
+  <img src="" width="32" height="32" alt="Tailwindcss" />
 </div>
 
 <!-- Break. -->
