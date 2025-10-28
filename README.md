@@ -105,6 +105,7 @@
   <img src="" width="32" height="32" alt="Tailwindcss" />
   <img src="" width="32" height="32" alt="Bootstrap" />
   <img src="" width="32" height="32" alt="ReactBootstrap" />
+  <img src="" width="32" height="32" alt="StyledComponents" />
 </div>
 
 <!-- Break. -->
