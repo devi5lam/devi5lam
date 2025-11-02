@@ -108,6 +108,7 @@
   <img src="" width="32" height="32" alt="StyledComponents" />
   <img src="" width="32" height="32" alt="React" />
   <img src="" width="32" height="32" alt="CSSModules" />
+  <img src="" width="32" height="32" alt="Nextjs" />
 </div>
 
 <!-- Break. -->
