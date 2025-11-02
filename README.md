@@ -107,6 +107,7 @@
   <img src="" width="32" height="32" alt="ReactBootstrap" />
   <img src="" width="32" height="32" alt="StyledComponents" />
   <img src="" width="32" height="32" alt="React" />
+  <img src="" width="32" height="32" alt="CSSModules" />
 </div>
 
 <!-- Break. -->
