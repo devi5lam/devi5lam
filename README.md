@@ -109,6 +109,7 @@
   <img src="" width="32" height="32" alt="React" />
   <img src="" width="32" height="32" alt="CSSModules" />
   <img src="" width="32" height="32" alt="Nextjs" />
+  <img src="" width="32" height="32" alt="NextUI" />
 </div>
 
 <!-- Break. -->
