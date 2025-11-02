@@ -110,6 +110,7 @@
   <img src="" width="32" height="32" alt="CSSModules" />
   <img src="" width="32" height="32" alt="Nextjs" />
   <img src="" width="32" height="32" alt="NextUI" />
+  <img src="" width="32" height="32" alt="Framer" />
 </div>
 
 <!-- Break. -->
