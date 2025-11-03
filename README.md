@@ -123,6 +123,9 @@
   <img src="" width="32" height="32" alt="Mysql" />
 </div>
 
+<!-- Programming Languages. -->
+<h3 align="left">Programming Languages:</h3>
+
 <!-- Break. -->
 <br />
 
