@@ -126,6 +126,10 @@
 <!-- Programming Languages. -->
 <h3 align="left">Programming Languages:</h3>
 
+<div align="left">
+  <img src="" width="32" height="32" alt="C" />
+</div>
+
 <!-- Break. -->
 <br />
 
