@@ -119,6 +119,7 @@
 <div align="left">
   <img src="" width="32" height="32" alt="Supabase" />
   <img src="" width="32" height="32" alt="Nodejs" />
+  <img src="" width="32" height="32" alt="Express" />
 </div>
 
 <!-- Break. -->
