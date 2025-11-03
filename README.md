@@ -116,6 +116,10 @@
 <!-- Backend Development. -->
 <h3 align="left">Backend Development:</h3>
 
+<div align="left">
+  <img src="" width="32" height="32" alt="Supabase" />
+</div>
+
 <!-- Break. -->
 <br />
 
