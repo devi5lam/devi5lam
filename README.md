@@ -139,6 +139,7 @@
 
 <div align="left">
   <img src="" width="32" height="32" alt="Git" />
+  <img src="" width="32" height="32" alt="Github" />
 </div>
 
 <!-- Break. -->
