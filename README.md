@@ -128,6 +128,7 @@
 
 <div align="left">
   <img src="" width="32" height="32" alt="C" />
+  <img src="" width="32" height="32" alt="C++" />
 </div>
 
 <!-- Break. -->
