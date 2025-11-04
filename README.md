@@ -130,6 +130,7 @@
   <img src="" width="32" height="32" alt="C" />
   <img src="" width="32" height="32" alt="C++" />
   <img src="" width="32" height="32" alt="Javascript" />
+  <img src="" width="32" height="32" alt="Python" />
 </div>
 
 <!-- Break. -->
