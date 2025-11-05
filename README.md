@@ -143,6 +143,7 @@
   <img src="" width="32" height="32" alt="CreateReactApp" />
   <img src="" width="32" height="32" alt="Normalizecss" />
   <img src="" width="32" height="32" alt="ReactHookForm" />
+ <img src="" width="32" height="32" alt="PWA" />
 </div>
 
 <!-- Break. -->
