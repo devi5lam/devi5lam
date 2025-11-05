@@ -146,6 +146,7 @@
   <img src="" width="32" height="32" alt="PWA" />
   <img src="" width="32" height="32" alt="Rollupjs" />
   <img src="" width="32" height="32" alt="Webpack" />
+  <img src="" width="32" height="32" alt="ReactQuery" />
 </div>
 
 <!-- Break. -->
