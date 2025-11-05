@@ -147,6 +147,7 @@
   <img src="" width="32" height="32" alt="Rollupjs" />
   <img src="" width="32" height="32" alt="Webpack" />
   <img src="" width="32" height="32" alt="ReactQuery" />
+  <img src="" width="32" height="32" alt="ReactRouter" />
 </div>
 
 <!-- Break. -->
