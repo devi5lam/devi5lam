@@ -140,6 +140,7 @@
 <div align="left">
   <img src="" width="32" height="32" alt="Git" />
   <img src="" width="32" height="32" alt="Github" />
+  <img src="" width="32" height="32" alt="CreateReactApp" />
 </div>
 
 <!-- Break. -->
