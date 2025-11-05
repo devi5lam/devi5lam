@@ -145,6 +145,7 @@
   <img src="" width="32" height="32" alt="ReactHookForm" />
   <img src="" width="32" height="32" alt="PWA" />
   <img src="" width="32" height="32" alt="Rollupjs" />
+  <img src="" width="32" height="32" alt="Webpack" />
 </div>
 
 <!-- Break. -->
