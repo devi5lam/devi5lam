@@ -148,6 +148,7 @@
   <img src="" width="32" height="32" alt="Webpack" />
   <img src="" width="32" height="32" alt="ReactQuery" />
   <img src="" width="32" height="32" alt="ReactRouter" />
+  <img src="" width="32" height="32" alt="Redux" />
 </div>
 
 <!-- Break. -->
