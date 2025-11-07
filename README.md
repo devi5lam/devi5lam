@@ -150,6 +150,7 @@
   <img src="" width="32" height="32" alt="ReactRouter" />
   <img src="" width="32" height="32" alt="Redux" />
   <img src="" width="32" height="32" alt="Vite" />
+  <img src="" width="32" height="32" alt="Eslint" />
 </div>
 
 <!-- Break. -->
