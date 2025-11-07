@@ -149,6 +149,7 @@
   <img src="" width="32" height="32" alt="ReactQuery" />
   <img src="" width="32" height="32" alt="ReactRouter" />
   <img src="" width="32" height="32" alt="Redux" />
+  <img src="" width="32" height="32" alt="Vite" />
 </div>
 
 <!-- Break. -->
