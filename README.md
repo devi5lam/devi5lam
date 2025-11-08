@@ -151,6 +151,7 @@
   <img src="" width="32" height="32" alt="Redux" />
   <img src="" width="32" height="32" alt="Vite" />
   <img src="" width="32" height="32" alt="Eslint" />
+  <img src="" width="32" height="32" alt="Prettier" />
 </div>
 
 <!-- Break. -->
