@@ -152,6 +152,7 @@
   <img src="" width="32" height="32" alt="Vite" />
   <img src="" width="32" height="32" alt="Eslint" />
   <img src="" width="32" height="32" alt="Prettier" />
+  <img src="" width="32" height="32" alt="Markdown" />
 </div>
 
 <!-- Break. -->
