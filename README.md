@@ -156,8 +156,11 @@
   <img src="" width="32" height="32" alt="Markdown" />
 </div>
 
-<!-- Tools & Utilities. -->
+<!-- DevOps. -->
 <h3 align="left">DevOps:</h3>
+
+<!-- Browsers. -->
+<h3 align="left">Browsers:</h3>
 
 <!-- Break. -->
 <br />
