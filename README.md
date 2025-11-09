@@ -163,7 +163,8 @@
 <h3 align="left">Browsers:</h3>
 
 <div align="left">
-  <img src="" width="32" height="32" alt="GoogleChrome" />>
+  <img src="" width="32" height="32" alt="GoogleChrome" />
+  <img src="" width="32" height="32" alt="Brave" />
 </div>
 
 <!-- Break. -->
