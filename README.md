@@ -162,6 +162,10 @@
 <!-- Browsers. -->
 <h3 align="left">Browsers:</h3>
 
+<div align="left">
+  <img src="" width="32" height="32" alt="GoogleChrome" />>
+</div>
+
 <!-- Break. -->
 <br />
 
