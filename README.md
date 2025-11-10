@@ -161,7 +161,8 @@
 
 <div align="left">
   <img src="" width="32" height="32" alt="Docker" />
-<img src="" width="32" height="32" alt="Graphql" /> 
+<img src="" width="32" height="32" alt="Graphql" />
+<img src="" width="32" height="32" alt="Linux" /> 
 </div>
 
 <!-- Browsers. -->
