@@ -166,6 +166,7 @@
   <img src="" width="32" height="32" alt="GoogleChrome" />
   <img src="" width="32" height="32" alt="Brave" />
  <img src="" width="32" height="32" alt="Firefox" />
+ <img src="" width="32" height="32" alt="FirefoxBrowser" />
 </div>
 
 <!-- Break. -->
