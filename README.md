@@ -161,8 +161,8 @@
 
 <div align="left">
   <img src="" width="32" height="32" alt="Docker" />
+<img src="" width="32" height="32" alt="Graphql" /> 
 </div>
-
 
 <!-- Browsers. -->
 <h3 align="left">Browsers:</h3>
