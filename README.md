@@ -164,6 +164,7 @@
 <img src="" width="32" height="32" alt="Graphql" />
 <img src="" width="32" height="32" alt="Linux" /> 
 <img src="" width="32" height="32" alt="CMake" />
+<img src="" width="32" height="32" alt="VirtualBox" />
 </div>
 
 <!-- Browsers. -->
