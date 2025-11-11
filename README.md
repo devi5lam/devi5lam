@@ -156,6 +156,7 @@
   <img src="" width="32" height="32" alt="Markdown" />
 <img src="" width="32" height="32" alt="NPM" />
 <img src="" width="32" height="32" alt="SublimeText" />
+<img src="" width="32" height="32" alt="VSCode" />
 </div>
 
 <!-- DevOps. -->
