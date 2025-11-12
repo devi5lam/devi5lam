@@ -122,6 +122,7 @@
   <img src="" width="32" height="32" alt="Express" />
   <img src="" width="32" height="32" alt="Mysql" />
   <img src="" width="32" height="32" alt="phpMyAdmin" />
+  <img src="" width="32" height="32" alt="Sqlite" />
 </div>
 
 <!-- Programming Languages. -->
