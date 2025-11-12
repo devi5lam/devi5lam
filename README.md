@@ -124,6 +124,7 @@
   <img src="" width="32" height="32" alt="phpMyAdmin" />
   <img src="" width="32" height="32" alt="Sqlite" />
   <img src="" width="32" height="32" alt="Oracle" />
+  <img src="" width="32" height="32" alt="Django" />
 </div>
 
 <!-- Programming Languages. -->
