@@ -123,6 +123,7 @@
   <img src="" width="32" height="32" alt="Mysql" />
   <img src="" width="32" height="32" alt="phpMyAdmin" />
   <img src="" width="32" height="32" alt="Sqlite" />
+  <img src="" width="32" height="32" alt="Oracle" />
 </div>
 
 <!-- Programming Languages. -->
