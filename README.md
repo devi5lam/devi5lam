@@ -50,7 +50,7 @@
 <!-- Problem Solving. -->
 <h2 align="left">My Competitive Programming Profiles:</h2>
 
-<div align="left" width=100%>
+<div align="left" width="100%">
 	<a href="#" target="_blank">
 		<img src="" alt="Codeforces"/>
 	</a>
@@ -74,7 +74,7 @@
 <!-- Connect. -->
 <h2 align="left">Connect with me:</h2>
 
-<div align="left" width=100%>
+<div align="left" width="100%">
   <a href="" target="_blank">
     <img src="" width="32" height="32" alt="Gmail" />
   </a>
@@ -102,7 +102,7 @@
 <h3 align="left">Frontend Development:</h3>
 
 <div align="left">
-  <img src="" width="32" height="32" alt="HTML5" />
+  <img src="./assets/icons/frontend/html.svg" width="32" height="32" alt="HTML" />
   <img src="" width="32" height="32" alt="CSS" />
   <img src="" width="32" height="32" alt="SASS" />
   <img src="" width="32" height="32" alt="Tailwindcss" />
