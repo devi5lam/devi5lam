@@ -108,7 +108,7 @@
   <img src="" width="32" height="32" alt="Tailwindcss" />
   <img src="" width="32" height="32" alt="Bootstrap" />
   <img src="" width="32" height="32" alt="ReactBootstrap" />
-  <img src="" width="32" height="32" alt="StyledComponents" />
+  <img src="./assets/icons/frontend/styledComponents.svg" width="32" height="32" alt="StyledComponents" />
   <img src="" width="32" height="32" alt="React" />
   <img src="" width="32" height="32" alt="CSSModules" />
   <img src="" width="32" height="32" alt="Nextjs" />
