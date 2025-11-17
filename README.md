@@ -109,7 +109,7 @@
   <img src="" width="32" height="32" alt="Bootstrap" />
   <img src="" width="32" height="32" alt="ReactBootstrap" />
   <img src="./assets/icons/frontend/styledComponents.svg" width="32" height="32" alt="StyledComponents" />
-  <img src="" width="32" height="32" alt="React" />
+  <img src="./assets/icons/frontend/react.svg" width="32" height="32" alt="React" />
   <img src="" width="32" height="32" alt="CSSModules" />
   <img src="" width="32" height="32" alt="Nextjs" />
   <img src="" width="32" height="32" alt="NextUI" />
