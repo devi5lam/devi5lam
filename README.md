@@ -112,7 +112,7 @@
   <img src="./assets/icons/frontend/react.svg" width="32" height="32" alt="React" />
   <img src="./assets/icons/frontend/cssModules.svg" width="32" height="32" alt="CSSModules" />
   <img src="./assets/icons/frontend/nextjs.svg" width="32" height="32" alt="Nextjs" />
-  <img src="" width="32" height="32" alt="NextUI" />
+  <img src="./assets/icons/frontend/nextui.svg" width="32" height="32" alt="NextUI" />
   <img src="" width="32" height="32" alt="Framer" />
 </div>
 
