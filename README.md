@@ -113,7 +113,7 @@
   <img src="./assets/icons/frontend/cssModules.svg" width="32" height="32" alt="CSSModules" />
   <img src="./assets/icons/frontend/nextjs.svg" width="32" height="32" alt="Nextjs" />
   <img src="./assets/icons/frontend/nextui.svg" width="32" height="32" alt="NextUI" />
-  <img src="" width="32" height="32" alt="Framer" />
+  <img src="./assets/icons/frontend/framer.svg" width="32" height="32" alt="Framer" />
 </div>
 
 <!-- Backend Development. -->
