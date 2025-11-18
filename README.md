@@ -105,7 +105,7 @@
   <img src="./assets/icons/frontend/html.svg" width="32" height="32" alt="HTML" />
   <img src="./assets/icons/frontend/css.svg" width="32" height="32" alt="CSS" />
   <img src="./assets/icons/frontend/sass.svg" width="32" height="32" alt="SASS" />
-  <img src="" width="32" height="32" alt="Tailwindcss" />
+  <img src="./assets/icons/frontend/tailwindcss.svg" width="32" height="32" alt="Tailwindcss" />
   <img src="" width="32" height="32" alt="Bootstrap" />
   <img src="" width="32" height="32" alt="ReactBootstrap" />
   <img src="./assets/icons/frontend/styledComponents.svg" width="32" height="32" alt="StyledComponents" />
