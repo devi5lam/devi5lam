@@ -124,7 +124,7 @@
   <img src="./assets/icons/backend/nodejs.svg" width="32" height="32" alt="Nodejs" />
   <img src="./assets/icons/backend/express.svg" width="32" height="32" alt="Express" />
   <img src="./assets/icons/backend/mysql.svg" width="32" height="32" alt="Mysql" />
-  <img src="" width="32" height="32" alt="phpMyAdmin" />
+  <img src="./assets/icons/backend/phpmyadmin.svg" width="32" height="32" alt="phpMyAdmin" />
   <img src="" width="32" height="32" alt="Sqlite" />
   <img src="" width="32" height="32" alt="Oracle" />
   <img src="./assets/icons/backend/django.svg" width="32" height="32" alt="Django" />
