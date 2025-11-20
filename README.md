@@ -120,7 +120,7 @@
 <h3 align="left">Backend Development:</h3>
 
 <div align="left">
-  <img src="" width="32" height="32" alt="Supabase" />
+  <img src="./assets/icons/backend/supabase.svg" width="32" height="32" alt="Supabase" />
   <img src="" width="32" height="32" alt="Nodejs" />
   <img src="" width="32" height="32" alt="Express" />
   <img src="" width="32" height="32" alt="Mysql" />
