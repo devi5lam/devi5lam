@@ -137,7 +137,7 @@
   <img src="./assets/icons/languages/c.svg" width="32" height="32" alt="C" />
   <img src="./assets/icons/languages/C++.svg" width="32" height="32" alt="C++" />
   <img src="./assets/icons/languages/Javascript.svg" width="32" height="32" alt="Javascript" />
-  <img src="" width="32" height="32" alt="Typescript" />
+  <img src="./assets/icons/languages/Typescript.svg" width="32" height="32" alt="Typescript" />
   <img src="" width="32" height="32" alt="Python" />
 </div>
 
