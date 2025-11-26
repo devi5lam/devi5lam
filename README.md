@@ -145,7 +145,7 @@
 <h3 align="left">Tools & Utilities:</h3>
 
 <div align="left">
-  <img src="./assets/icons/languages/python.svg" width="32" height="32" alt="Git" />
+  <img src="./assets/icons/languages/git.svg" width="32" height="32" alt="Git" />
   <img src="" width="32" height="32" alt="Github" />
   <img src="" width="32" height="32" alt="CreateReactApp" />
   <img src="" width="32" height="32" alt="Normalizecss" />
