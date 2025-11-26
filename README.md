@@ -146,7 +146,7 @@
 
 <div align="left">
   <img src="./assets/icons/tools/git.svg" width="32" height="32" alt="Git" />
-  <img src="" width="32" height="32" alt="Github" />
+  <img src="./assets/icons/tools/github.svg" width="32" height="32" alt="Github" />
   <img src="" width="32" height="32" alt="CreateReactApp" />
   <img src="" width="32" height="32" alt="Normalizecss" />
   <img src="" width="32" height="32" alt="ReactHookForm" />
