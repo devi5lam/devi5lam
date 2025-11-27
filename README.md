@@ -151,7 +151,7 @@
   <img src="./assets/icons/tools/normalizecss.svg" width="32" height="32" alt="Normalizecss" />
   <img src="./assets/icons/tools/reactHookForm.svg" width="32" height="32" alt="ReactHookForm" />
   <img src="./assets/icons/tools/pwa.svg" width="32" height="32" alt="PWA" />
-  <img src="" width="32" height="32" alt="Rollupjs" />
+  <img src="./assets/icons/tools/rollupjs.svg" width="32" height="32" alt="Rollupjs" />
   <img src="" width="32" height="32" alt="Webpack" />
   <img src="" width="32" height="32" alt="ReactQuery" />
   <img src="" width="32" height="32" alt="ReactRouter" />
