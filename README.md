@@ -148,7 +148,7 @@
   <img src="./assets/icons/tools/git.svg" width="32" height="32" alt="Git" />
   <img src="./assets/icons/tools/github.svg" width="32" height="32" alt="Github" />
   <img src="./assets/icons/tools/createReactApp.svg" width="32" height="32" alt="CreateReactApp" />
-  <img src="" width="32" height="32" alt="Normalizecss" />
+  <img src="./assets/icons/tools/normalizecss.svg" width="32" height="32" alt="Normalizecss" />
   <img src="" width="32" height="32" alt="ReactHookForm" />
   <img src="" width="32" height="32" alt="PWA" />
   <img src="" width="32" height="32" alt="Rollupjs" />
