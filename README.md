@@ -153,7 +153,7 @@
   <img src="./assets/icons/tools/pwa.svg" width="32" height="32" alt="PWA" />
   <img src="./assets/icons/tools/rollupjs.svg" width="32" height="32" alt="Rollupjs" />
   <img src="./assets/icons/tools/webpack.svg" width="32" height="32" alt="Webpack" />
-  <img src="" width="32" height="32" alt="ReactQuery" />
+  <img src="./assets/icons/tools/reactQuery.svg" width="32" height="32" alt="ReactQuery" />
   <img src="" width="32" height="32" alt="ReactRouter" />
   <img src="" width="32" height="32" alt="Redux" />
   <img src="" width="32" height="32" alt="Vite" />
