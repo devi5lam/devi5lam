@@ -169,7 +169,7 @@
 <h3 align="left">DevOps:</h3>
 
 <div align="left">
-  <img src="" width="32" height="32" alt="Docker" />
+  <img src="./assets/icons/tools/docker.svg" width="32" height="32" alt="Docker" />
 <img src="" width="32" height="32" alt="Graphql" />
 <img src="" width="32" height="32" alt="Linux" /> 
 <img src="" width="32" height="32" alt="CMake" />
