@@ -161,7 +161,7 @@
   <img src="./assets/icons/tools/prettier.svg" width="32" height="32" alt="Prettier" />
   <img src="./assets/icons/tools/markdown.svg" width="32" height="32" alt="Markdown" />
 <img src="./assets/icons/tools/npm.svg" width="32" height="32" alt="NPM" />
-<img src="" width="32" height="32" alt="SublimeText" />
+<img src="./assets/icons/tools/sublimeText.svg" width="32" height="32" alt="SublimeText" />
 <img src="" width="32" height="32" alt="VSCode" />
 </div>
 
