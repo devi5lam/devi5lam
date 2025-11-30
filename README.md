@@ -174,7 +174,7 @@
 <img src="./assets/icons/tools/linux.svg" width="32" height="32" alt="Linux" /> 
 <img src="./assets/icons/tools/cmake.svg" width="32" height="32" alt="CMake" />
 <img src="./assets/icons/tools/virtualBox.svg" width="32" height="32" alt="VirtualBox" />
-<img src="" width="32" height="32" alt="VMWare" />
+<img src="./assets/icons/tools/vmWare.svg" width="32" height="32" alt="VMWare" />
 </div>
 
 <!-- Browsers. -->
