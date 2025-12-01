@@ -181,7 +181,7 @@
 <h3 align="left">Browsers:</h3>
 
 <div align="left">
-  <img src="" width="32" height="32" alt="GoogleChrome" />
+  <img src="./assets/icons/browsers/googleChrome.svg" width="32" height="32" alt="GoogleChrome" />
   <img src="" width="32" height="32" alt="Brave" />
  <img src="" width="32" height="32" alt="Firefox" />
  <img src="" width="32" height="32" alt="FirefoxBrowser" />
