@@ -184,7 +184,7 @@
   <img src="./assets/icons/browsers/googleChrome.svg" width="32" height="32" alt="GoogleChrome" />
   <img src="./assets/icons/browsers/brave.svg" width="32" height="32" alt="Brave" />
  <img src="./assets/icons/browsers/firefox.svg" width="32" height="32" alt="Firefox" />
- <img src="" width="32" height="32" alt="FirefoxBrowser" />
+ <img src="./assets/icons/browsers/firefoxBrowser.svg" width="32" height="32" alt="FirefoxBrowser" />
 </div>
 
 <!-- Break. -->
