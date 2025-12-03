@@ -88,7 +88,7 @@
     <img src="./assets/icons/social/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>         
   <a href="" target="_blank">
-    <img src="" width="32" height="32" alt="Slack" />
+    <img src="./assets/icons/social/slack.svg" width="32" height="32" alt="Slack" />
   </a>           
 </div>
 
