@@ -82,7 +82,7 @@
     <img src="./assets/icons/social/linkedin.svg" width="32" height="32" alt="Linkedin" />
   </a>
   <a href="" target="_blank">
-    <img src="" width="32" height="32" alt="Facebook" />
+    <img src="./assets/icons/social/facebook.svg" width="32" height="32" alt="Facebook" />
   </a>      
   <a href="" target="_blank">
     <img src="" width="32" height="32" alt="Instagram" />
