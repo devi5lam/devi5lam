@@ -58,7 +58,7 @@
 		<img src="./assets/icons/solving/leetCode.svg" alt="LeetCode"/>
 	</a>
 	<a href="#" target="_blank">
-		<img src="" alt="hackerrank"/>
+		<img src="./assets/icons/solving/hackerrank.svg" alt="Hackerrank"/>
 	</a>
 	<a href="#" target="_blank">
 		<img src="" width="46" alt="spoj"/>
