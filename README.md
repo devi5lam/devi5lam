@@ -61,7 +61,7 @@
 		<img src="./assets/icons/solving/hackerrank.svg" alt="Hackerrank"/>
 	</a>
 	<a href="#" target="_blank">
-		<img src="" width="46" alt="spoj"/>
+		<img src="./assets/icons/solving/spoj.svg" width="46" alt="spoj"/>
 	</a>
 	<a href="#" target="_blank">
 		<img src="" width="43" alt="UVA"/>
