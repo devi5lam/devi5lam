@@ -55,7 +55,7 @@
 		<img src="./assets/icons/solving/codeforces.svg" alt="Codeforces"/>
 	</a>
 	<a href="#" target="_blank">
-		<img src="" alt="LeetCode"/>
+		<img src="./assets/icons/solving/leetCode.svg" alt="LeetCode"/>
 	</a>
 	<a href="#" target="_blank">
 		<img src="" alt="hackerrank"/>
