@@ -64,7 +64,7 @@
 		<img src="./assets/icons/solving/spoj.svg" width="46" alt="spoj"/>
 	</a>
 	<a href="#" target="_blank">
-		<img src="" width="43" alt="UVA"/>
+		<img src="./assets/icons/solving/uva.svg" width="43" alt="UVA"/>
 	</a>
 </div>
 
