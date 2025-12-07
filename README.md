@@ -160,7 +160,6 @@
   <img src="./assets/icons/tools/eslint.svg" width="32" height="32" alt="Eslint" />
   <img src="./assets/icons/tools/prettier.svg" width="32" height="32" alt="Prettier" />
   <img src="./assets/icons/tools/markdown.svg" width="32" height="32" alt="Markdown" />
-<img src="./assets/icons/tools/npm.svg" width="32" height="32" alt="NPM" />
 <img src="./assets/icons/tools/sublimeText.svg" width="32" height="32" alt="SublimeText" />
 <img src="./assets/icons/tools/vsCode.svg" width="32" height="32" alt="VSCode" />
 </div>
@@ -169,9 +168,10 @@
 <h3 align="left">DevOps:</h3>
 
 <div align="left">
-  <img src="./assets/icons/tools/docker.svg" width="32" height="32" alt="Docker" />
+  <img src="./assets/icons/devops/docker.svg" width="32" height="32" alt="Docker" />
 <img src="./assets/icons/tools/graphql.svg" width="32" height="32" alt="Graphql" />
 <img src="./assets/icons/tools/linux.svg" width="32" height="32" alt="Linux" /> 
+<img src="./assets/icons/tools/npm.svg" width="32" height="32" alt="NPM" />
 <img src="./assets/icons/tools/cmake.svg" width="32" height="32" alt="CMake" />
 <img src="./assets/icons/tools/virtualBox.svg" width="32" height="32" alt="VirtualBox" />
 <img src="./assets/icons/tools/vmWare.svg" width="32" height="32" alt="VMWare" />
