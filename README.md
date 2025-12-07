@@ -169,7 +169,7 @@
 
 <div align="left">
   <img src="./assets/icons/devops/docker.svg" width="32" height="32" alt="Docker" />
-<img src="./assets/icons/tools/graphql.svg" width="32" height="32" alt="Graphql" />
+<img src="./assets/icons/devops/graphql.svg" width="32" height="32" alt="Graphql" />
 <img src="./assets/icons/tools/linux.svg" width="32" height="32" alt="Linux" /> 
 <img src="./assets/icons/tools/npm.svg" width="32" height="32" alt="NPM" />
 <img src="./assets/icons/tools/cmake.svg" width="32" height="32" alt="CMake" />
