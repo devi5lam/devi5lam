@@ -173,7 +173,7 @@
 <img src="./assets/icons/devops/linux.svg" width="32" height="32" alt="Linux" /> 
 <img src="./assets/icons/devops/npm.svg" width="32" height="32" alt="NPM" />
 <img src="./assets/icons/devops/cmake.svg" width="32" height="32" alt="CMake" />
-<img src="./assets/icons/tools/virtualBox.svg" width="32" height="32" alt="VirtualBox" />
+<img src="./assets/icons/devops/virtualBox.svg" width="32" height="32" alt="VirtualBox" />
 <img src="./assets/icons/tools/vmWare.svg" width="32" height="32" alt="VMWare" />
 </div>
 
