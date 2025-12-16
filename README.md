@@ -51,12 +51,9 @@
 <h2 align="left">My Competitive Programming Profiles:</h2>
 
 <div align="left" width="100%">
-	<a href="#" target="_blank">
-		<img src="./assets/icons/solving/codeforces.svg" alt="Codeforces"/>
-	</a>
-	<a href="#" target="_blank">
-		<img src="./assets/icons/solving/leetCode.svg" alt="LeetCode"/>
-	</a>
+  <a href="" target="_blank">
+    <img src="./assets/icons/solving/leetCode.svg" width="32" height="32" alt="LeetCode" />
+  </a>
 	<a href="#" target="_blank">
 		<img src="./assets/icons/solving/hackerrank.svg" alt="Hackerrank"/>
 	</a>
