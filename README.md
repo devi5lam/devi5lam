@@ -52,7 +52,7 @@
 
 <div align="left" width="100%">
   <a href="" target="_blank">
-    <img src="./assets/icons/solving/leetCode.svg" width="32" height="32" alt="LeetCode" />
+    <img src="./assets/icons/solving/leetcode.svg" width="32" height="32" alt="LeetCode" />
   </a>
 	<a href="#" target="_blank">
 		<img src="./assets/icons/solving/hackerrank.svg" alt="Hackerrank"/>
