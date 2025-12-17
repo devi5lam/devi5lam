@@ -54,6 +54,9 @@
   <a href="" target="_blank">
     <img src="./assets/icons/solving/leetcode.svg" width="32" height="32" alt="LeetCode" />
   </a>
+  <a href="" target="_blank">
+    <img src="./assets/icons/solving/codewars.svg" width="32" height="32" alt="CodeWars" />
+  </a>  
 	<a href="#" target="_blank">
 		<img src="./assets/icons/solving/hackerrank.svg" alt="Hackerrank"/>
 	</a>
