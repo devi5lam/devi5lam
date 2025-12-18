@@ -57,9 +57,9 @@
   <a href="" target="_blank">
     <img src="./assets/icons/solving/codewars.svg" width="32" height="32" alt="CodeWars" />
   </a>  
-	<a href="#" target="_blank">
-		<img src="./assets/icons/solving/hackerrank.svg" alt="Hackerrank"/>
-	</a>
+  <a href="" target="_blank">
+    <img src="./assets/icons/solving/hackerrank.svg" width="32" height="32" alt="Hackerrank" />
+  </a>    
 	<a href="#" target="_blank">
 		<img src="./assets/icons/solving/spoj.svg" width="46" alt="spoj"/>
 	</a>
