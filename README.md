@@ -63,9 +63,6 @@
   <a href="" target="_blank">
     <img src="./assets/icons/solving/spoj.svg" width="32" height="32" alt="Spoj" />
   </a>      
-	<a href="#" target="_blank">
-		<img src="./assets/icons/solving/uva.svg" width="43" alt="UVA"/>
-	</a>
 </div>
 
 <!-- Break. -->
