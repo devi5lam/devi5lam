@@ -93,6 +93,9 @@
   <a href="" target="_blank">
     <img src="./assets/icons/social/slack.svg" width="32" height="32" alt="Slack" />
   </a>           
+  <a href="" target="_blank">
+    <img src="./assets/icons/social/snapchat.svg" width="32" height="32" alt="Snapchat" />
+  </a>             
 </div>
 
 <!-- Break. -->
