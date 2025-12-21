@@ -99,6 +99,9 @@
   <a href="" target="_blank">
     <img src="./assets/icons/social/reddit.svg" width="32" height="32" alt="Reddit" />
   </a>       
+  <a href="" target="_blank">
+    <img src="./assets/icons/social/tiktok.svg" width="32" height="32" alt="Tiktok" />
+  </a>         
 </div>
 
 <!-- Break. -->
