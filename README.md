@@ -185,6 +185,7 @@
 <img src="./assets/icons/tools/sublimeText.svg" width="32" height="32" alt="SublimeText" />
 <img src="./assets/icons/tools/vsCode.svg" width="32" height="32" alt="VSCode" />
 <img src="./assets/icons/tools/codeblocks.svg" width="32" height="32" alt="codeblocks" />
+<img src="./assets/icons/frontend/babel.svg" width="32" height="32" alt="babel" />
 </div>
 
 <!-- DevOps. -->
