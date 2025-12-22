@@ -135,6 +135,7 @@
   <img src="./assets/icons/frontend/nextjs.svg" width="32" height="32" alt="Nextjs" />
   <img src="./assets/icons/frontend/nextui.svg" width="32" height="32" alt="NextUI" />
   <img src="./assets/icons/frontend/framer.svg" width="32" height="32" alt="Framer" />
+  <img src="./assets/icons/frontend/jquery.svg" width="32" height="32" alt="JQuery" />
 </div>
 
 <!-- Backend Development. -->
