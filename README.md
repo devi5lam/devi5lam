@@ -186,6 +186,7 @@
 <img src="./assets/icons/tools/vsCode.svg" width="32" height="32" alt="VSCode" />
 <img src="./assets/icons/tools/codeblocks.svg" width="32" height="32" alt="codeblocks" />
 <img src="./assets/icons/tools/babel.svg" width="32" height="32" alt="babel" />
+<img src="./assets/icons/tools/gitforwindows.svg" width="32" height="32" alt="gitforwindows" />
 </div>
 
 <!-- DevOps. -->
