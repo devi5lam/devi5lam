@@ -188,6 +188,7 @@
 <img src="./assets/icons/tools/babel.svg" width="32" height="32" alt="babel" />
 <img src="./assets/icons/tools/gitforwindows.svg" width="32" height="32" alt="gitforwindows" />
 <img src="./assets/icons/tools/githubactions.svg" width="32" height="32" alt="Githubactions" />
+<img src="./assets/icons/tools/githubactions.svg" width="32" height="32" alt="Githubcopilot" />
 </div>
 
 <!-- DevOps. -->
