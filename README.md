@@ -1,4 +1,4 @@
-   <!-- Banner. -->
+    <!-- Banner. -->
 <img src="./assets/images/banner.gif" alt="Banner"/>
 
 <!-- My Name. -->
