@@ -1,8 +1,4 @@
 
-
-<!-- My Name. -->
-<h1 align
-
 <!-- Shields. -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devi5lam&label=Profile%20views&color=0e75b6&style=flat" alt="devi5lam" />
