@@ -1,8 +1,6 @@
 
 <!-- Shields. -->
-<p align="center">
-  
-  <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fdevi5lam">
+<p align="center"
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/devi5lam">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/devi5lam">
 </p>
