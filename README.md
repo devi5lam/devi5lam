@@ -1,7 +1,7 @@
 
 
 <!-- My Name. -->
-<h1 align="center">Hi! 👋, I'm Islam 🥷🏻 from Egypt</h1>
+<h1 align
 
 <!-- Typing. -->
 <div align="center">
