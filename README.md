@@ -1,5 +1,4 @@
-     <!-- Banner. -->
-<img src="./assets/images/banner.gif" alt="Banner"/>
+
 
 <!-- My Name. -->
 <h1 align="center">Hi! 👋, I'm Islam 🥷🏻 from Egypt</h1>
