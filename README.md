@@ -1,5 +1,4 @@
-
-- 🤝 I’m looking for help with **growing my open-source UI library (oui)** and improving component design.  
+ 
 - 👨‍💻 All of my projects are available at [Portfolio Website](#)
 - 📝 I regularly write articles on **frontend best practices, code organization, and UI design patterns**.  
 - 💬 Ask me about **React, styled-components, UI libraries, and building scalable project structures**.  
