@@ -1,9 +1,7 @@
 
 
 <div align="left" width="100%">
-  <a href="" target="_blank">
-    <img src="./assets/icons/social/gmail.svg" width="32" height="32" alt="Gmail" />
-  </a>
+  
   <a href="" target="_blank">
     <img src="./assets/icons/social/linkedin.svg" width="32" height="32" alt="Linkedin" />
   </a>
