@@ -1,11 +1,5 @@
 
 
-
-
-
-<!-- Frontend Development. -->
-<h3 align="left">Frontend Development:</h3>
-
 <div align="left">
   <img src="./assets/icons/frontend/html.svg" width="32" height="32" alt="HTML" />
   <img src="./assets/icons/frontend/css.svg" width="32" height="32" alt="CSS" />
