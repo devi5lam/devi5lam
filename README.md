@@ -1,7 +1,6 @@
 
 
 <div align="left">
-  <img src="./assets/icons/frontend/html.svg" width="32" height="32" alt="HTML" />
   <img src="./assets/icons/frontend/css.svg" width="32" height="32" alt="CSS" />
   <img src="./assets/icons/frontend/sass.svg" width="32" height="32" alt="SASS" />
   <img src="./assets/icons/frontend/tailwindcss.svg" width="32" height="32" alt="Tailwindcss" />
