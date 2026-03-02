@@ -1,7 +1,5 @@
 
 
-<!-- Break. -->
-<br />
 
 <!-- Skills. -->
 <h2 align="left">Skills:</h2>
