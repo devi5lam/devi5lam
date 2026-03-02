@@ -1,7 +1,6 @@
 
 
-<div align="left">
-  <img src="./assets/icons/frontend/css.svg" width="32" height="32" alt="CSS" />
+<div align="left"
   <img src="./assets/icons/frontend/sass.svg" width="32" height="32" alt="SASS" />
   <img src="./assets/icons/frontend/tailwindcss.svg" width="32" height="32" alt="Tailwindcss" />
   <img src="./assets/icons/frontend/bootstrap.svg" width="32" height="32" alt="Bootstrap" />
