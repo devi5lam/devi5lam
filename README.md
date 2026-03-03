@@ -2,7 +2,7 @@
 
 <div align="left"
   
-  <img src="./assets/icon/frontend/bootstrap.svg" width="32" height="32" alt="Bootstrap" />
+  
   <img src="./assets/icons/frontend/reactBootstrap.svg" width="32" height="32" alt="ReactBootstrap" />
   <img src="./assets/icons/frontend/styledComponents.svg" width="32" height="32" alt="StyledComponents" />
   <img src="./assets/icons/frontend/react.svg" width="32" height="32" alt="React" />
