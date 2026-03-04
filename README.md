@@ -1,8 +1,6 @@
 
 
-<!-- Backend Development. -->
-<h3 align="left">Backend Development:</h3>
-
+<!-- Backend Development. 
 <div align="left">
   <img src="./assets/icons/backend/supabase.svg" width="32" height="32" alt="Supabase" />
   <img src="./assets/icons/backend/nodejs.svg" width="32" height="32" alt="Nodejs" />
