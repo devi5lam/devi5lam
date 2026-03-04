@@ -2,7 +2,7 @@
 
 <div align="left"
   
-  <img src="./assets/icons/frontend/framer.svg" width="32" height="32" alt="Framer" />
+  
   <img src="./assets/icons/frontend/jquery.svg" width="32" height="32" alt="JQuery" />
 </div>
 
