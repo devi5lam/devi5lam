@@ -1,11 +1,5 @@
 
 
-<div align="left"
-  
-  
-  <img src="./assets/icons/frontend/jquery.svg" width="32" height="32" alt="JQuery" />
-</div>
-
 <!-- Backend Development. -->
 <h3 align="left">Backend Development:</h3>
 
