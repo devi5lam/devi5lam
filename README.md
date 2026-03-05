@@ -1,6 +1,4 @@
 
-  <img src="./assets/icons/backend/django.svg" width="32" height="32" alt="Django" />
-</div>
 
 <!-- Programming Languages. -->
 <h3 align="left">Programming Languages:</h3>
