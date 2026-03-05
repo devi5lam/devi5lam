@@ -1,5 +1,4 @@
 
-  <img src="./assets/icons/backend/phpMyAdmin.svg" width="32" height="32" alt="phpMyAdmin" />
   <img src="./assets/icons/backend/sqlite.svg" width="32" height="32" alt="Sqlite" />
   <img src="./assets/icons/backend/oracle.svg" width="32" height="32" alt="Oracle" />
   <img src="./assets/icons/backend/django.svg" width="32" height="32" alt="Django" />
