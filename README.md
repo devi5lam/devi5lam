@@ -4,7 +4,6 @@
 <h3 align="left">Programming Languages:</h3>
 
 <div align="left">
-  <img src="./assets/icons/languages/c.svg" width="32" height="32" alt="C" />
   <img src="./assets/icons/languages/c++.svg" width="32" height="32" alt="C++" />
   <img src="./assets/icons/languages/javascript.svg" width="32" height="32" alt="Javascript" />
   <img src="./assets/icons/languages/typescript.svg" width="32" height="32" alt="Typescript" />
