@@ -5,7 +5,6 @@
 
 <div align="left">
   
-  <img src="./assets/icons/tools/github.svg" width="32" height="32" alt="Github" />
   <img src="./assets/icons/tools/createReactApp.svg" width="32" height="32" alt="CreateReactApp" />
   <img src="./assets/icons/tools/normalizecss.svg" width="32" height="32" alt="Normalizecss" />
   <img src="./assets/icons/tools/reactHookForm.svg" width="32" height="32" alt="ReactHookForm" />
