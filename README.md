@@ -4,7 +4,7 @@
 <h3 align="left">Tools & Utilities:</h3>
 
 <div align="left">
-  <img src="./assets/icons/tools/git.svg" width="32" height="32" alt="Git" />
+  
   <img src="./assets/icons/tools/github.svg" width="32" height="32" alt="Github" />
   <img src="./assets/icons/tools/createReactApp.svg" width="32" height="32" alt="CreateReactApp" />
   <img src="./assets/icons/tools/normalizecss.svg" width="32" height="32" alt="Normalizecss" />
