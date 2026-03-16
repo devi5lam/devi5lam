@@ -1,11 +1,5 @@
 
 
-<div align="left">
-  
-  
-  <img src="./assets/icons/languages/python.svg" width="32" height="32" alt="Python" />
-</div>
-
 <!-- Tools & Utilities. -->
 <h3 align="left">Tools & Utilities:</h3>
 
