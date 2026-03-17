@@ -3,7 +3,7 @@
 
 <div align="left">
   
-  <img src="./assets/icons/tools/createReactApp.svg" width="32" height="32" alt="CreateReactApp" />
+  
   <img src="./assets/icons/tools/normalizecss.svg" width="32" height="32" alt="Normalizecss" />
   <img src="./assets/icons/tools/reactHookForm.svg" width="32" height="32" alt="ReactHookForm" />
   <img src="./assets/icons/tools/pwa.svg" width="32" height="32" alt="PWA" />
