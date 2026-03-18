@@ -3,7 +3,6 @@
 
 <div align="left">
   
-  <img src="./assets/icons/tools/redux.svg" width="32" height="32" alt="Redux" />
   <img src="./assets/icons/tools/vite.svg" width="32" height="32" alt="Vite" />
   <img src="./assets/icons/tools/eslint.svg" width="32" height="32" alt="Eslint" />
   <img src="./assets/icons/tools/prettier.svg" width="32" height="32" alt="Prettier" />
