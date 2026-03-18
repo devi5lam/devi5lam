@@ -4,7 +4,6 @@
 <div align="left">
   
   
-  <img src="./assets/icons/tools/rollupjs.svg" width="32" height="32" alt="Rollupjs" />
   <img src="./assets/icons/tools/webpack.svg" width="32" height="32" alt="Webpack" />
   <img src="./assets/icons/tools/reactQuery.svg" width="32" height="32" alt="ReactQuery" />
   <img src="./assets/icons/tools/reactRouter.svg" width="32" height="32" alt="ReactRouter" />
