@@ -4,7 +4,6 @@
 <div align="left">
   
   
-  <img src="./assets/icons/tools/reactQuery.svg" width="32" height="32" alt="ReactQuery" />
   <img src="./assets/icons/tools/reactRouter.svg" width="32" height="32" alt="ReactRouter" />
   <img src="./assets/icons/tools/redux.svg" width="32" height="32" alt="Redux" />
   <img src="./assets/icons/tools/vite.svg" width="32" height="32" alt="Vite" />
