@@ -4,7 +4,6 @@
 <div align="left">
   
   
-  <img src="./assets/icons/tools/eslint.svg" width="32" height="32" alt="Eslint" />
   <img src="./assets/icons/tools/prettier.svg" width="32" height="32" alt="Prettier" />
   <img src="./assets/icons/tools/markdown.svg" width="32" height="32" alt="Markdown" />
 <img src="./assets/icons/tools/sublimeText.svg" width="32" height="32" alt="SublimeText" />
