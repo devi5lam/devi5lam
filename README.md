@@ -4,7 +4,7 @@
 <div align="left">
   
   
-  <img src="./assets/icons/tools/prettier.svg" width="32" height="32" alt="Prettier" />
+  
   <img src="./assets/icons/tools/markdown.svg" width="32" height="32" alt="Markdown" />
 <img src="./assets/icons/tools/sublimeText.svg" width="32" height="32" alt="SublimeText" />
 <img src="./assets/icons/tools/vsCode.svg" width="32" height="32" alt="VSCode" />
