@@ -1,13 +1,5 @@
 
 
-
-<div align="left">
-  
-  
-  
-<img src="./assets/icons/tools/gitignoredotio.svg" width="32" height="32" alt="Gitignoredotio" />
-</div>
-
 <!-- DevOps. -->
 <h3 align="left">DevOps:</h3>
 
