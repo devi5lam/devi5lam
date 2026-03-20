@@ -5,7 +5,6 @@
   
   
   
-<img src="./assets/icons/tools/gitforwindows.svg" width="32" height="32" alt="gitforwindows" />
 <img src="./assets/icons/tools/githubactions.svg" width="32" height="32" alt="Githubactions" />
 <img src="./assets/icons/tools/githubcopilot.svg" width="32" height="32" alt="Githubcopilot" />
 <img src="./assets/icons/tools/githubpages.svg" width="32" height="32" alt="Githubpages" />
