@@ -5,7 +5,6 @@
 
 <div align="left">
   
-<img src="./assets/icons/devops/graphql.svg" width="32" height="32" alt="Graphql" />
 <img src="./assets/icons/devops/linux.svg" width="32" height="32" alt="Linux" /> 
 <img src="./assets/icons/devops/npm.svg" width="32" height="32" alt="NPM" />
 <img src="./assets/icons/devops/cmake.svg" width="32" height="32" alt="CMake" />
