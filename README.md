@@ -1,7 +1,6 @@
 
 
-<!-- DevOps. -->
-<h3 align="left">DevOps:</h3>
+
 
 <div align="left">
   
