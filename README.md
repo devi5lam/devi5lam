@@ -6,7 +6,6 @@
 <div align="left">
   
 
-<img src="./assets/icons/devops/virtualBox.svg" width="32" height="32" alt="VirtualBox" />
 <img src="./assets/icons/devops/vmware.svg" width="32" height="32" alt="VMWare" />
 </div>
 
