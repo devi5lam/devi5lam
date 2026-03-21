@@ -1,13 +1,4 @@
 
-
-
-
-<div align="left">
-  
-
-<img src="./assets/icons/devops/vmware.svg" width="32" height="32" alt="VMWare" />
-</div>
-
 <!-- Browsers. -->
 <h3 align="left">Browsers:</h3>
 
