@@ -1,6 +1,4 @@
 
-<!-- Browsers. -->
-<h3 align="left">Browsers:</h3>
 
 <div align="left">
   <img src="./assets/icons/browsers/googleChrome.svg" width="32" height="32" alt="GoogleChrome" />
