@@ -2,7 +2,7 @@
 
 <div align="left">
   
-  <img src="./assets/icons/browsers/brave.svg" width="32" height="32" alt="Brave" />
+  
  <img src="./assets/icons/browsers/firefox.svg" width="32" height="32" alt="Firefox" />
  
 </div>
