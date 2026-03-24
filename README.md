@@ -1,12 +1,5 @@
 
 
-<div align="left">
-  
-  
- <img src="./assets/icons/browsers/firefox.svg" width="32" height="32" alt="Firefox" />
- 
-</div>
-
 <!-- Break. -->
 <br />
 
