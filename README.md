@@ -1,7 +1,5 @@
 
 
-<!-- Streak Status. -->
-<img alt="Islam's Github Streak Status" src="https://nirzak-streak-stats.vercel.app/?user=devi5lam&theme=shades-of-purple&hide_border=true"/>
 
 <!-- Top Languages. -->
 <img alt="Islam's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devi5lam&theme=shades-of-purple&hide_border=true&layout=compact"/>
