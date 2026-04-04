@@ -28,3 +28,6 @@
 
 <!-- Break. -->
 <br />
+
+<!-- Information. -->
+- 🔭 I’m currently working on **Geeks** – a modern and flexible app that combines entertainment and personal organization in one place.
