@@ -43,3 +43,5 @@
 - 📝 I regularly write articles on **frontend best practices, code organization, and UI design patterns**.  
 
 - 💬 Ask me about **React, styled-components, UI libraries, and building scalable project structures**.  
+
+- 📫 How to reach me: **[Your Email] · [LinkedIn] · [GitHub]**
