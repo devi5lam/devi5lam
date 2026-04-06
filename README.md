@@ -76,3 +76,9 @@
 
 <!-- Connect. -->
 <h2 align="left">Connect with me:</h2>
+
+<div align="left" width="100%">
+  <a href="" target="_blank">
+    <img src="./assets/icons/social/gmail.svg" width="32" height="32" alt="Gmail" />
+  </a>   
+</div>
