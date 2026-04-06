@@ -70,3 +70,6 @@
     <img src="./assets/icons/solving/spoj.svg" width="32" height="32" alt="Spoj" />
   </a>      
 </div>
+
+<!-- Break. -->
+<br />
