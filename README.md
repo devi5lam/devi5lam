@@ -96,4 +96,7 @@
   <a href="" target="_blank">
     <img src="./assets/icons/social/x.svg" width="32" height="32" alt="X" />
   </a>           
+  <a href="" target="_blank">
+    <img src="./assets/icons/social/discord.svg" width="32" height="32" alt="Discord" />
+  </a>             
 </div>
