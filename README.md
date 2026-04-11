@@ -1,4 +1,4 @@
-<!-- My Name. -->
+٨<!-- My Name. -->
 <h1 align="center">Hi! 👋, I'm Islam 🥷🏻 from Egypt</h1>
 
 <!-- Typing. -->
@@ -115,3 +115,4 @@
     <img src="./assets/icons/social/threads.svg" width="32" height="32" alt="Threads" />
   </a>         
 </div>  
+ 
