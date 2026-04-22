@@ -1,7 +1,6 @@
 
 
-<!-- Break. -->
-<br />
+
 
 <!-- About Me. -->
 <h2 align="left">🖊️ About Me:</h2>
