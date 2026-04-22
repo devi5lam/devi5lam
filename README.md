@@ -3,7 +3,6 @@
 <!-- Shields. -->
 <p align="center">
   
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/devi5lam">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/devi5lam">
 </p>
 
