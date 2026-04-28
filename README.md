@@ -3,7 +3,7 @@
 
 
 
-- 📫 How to reach me: **[Your Email] · [LinkedIn] · [GitHub]**
+
 
 - 📄 Know about my experiences [Resume/CV](#)
 
