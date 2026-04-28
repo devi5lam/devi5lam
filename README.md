@@ -4,7 +4,6 @@
 
 
 
-
 - 📄 Know about my experiences [Resume/CV](#)
 
 - ⚡ Fun fact: I love wolves 🐺, horses 🐴, and my favorite color is a blueish-purple 💜.
