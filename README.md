@@ -1,7 +1,7 @@
  
  
 
-- 💬 Ask me about **React, styled-components, UI libraries, and building scalable project structures**.  
+
 
 - 📫 How to reach me: **[Your Email] · [LinkedIn] · [GitHub]**
 
