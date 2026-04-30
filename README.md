@@ -2,9 +2,7 @@
 
 <div align="left" width="100%">
   
-  <a href="" target="_blank">
-    <img src="./assets/icons/solving/codewars.svg" width="32" height="32" alt="CodeWars" />
-  </a>  
+  
   <a href="" target="_blank">
     <img src="./assets/icons/solving/hackerrank.svg" width="32" height="32" alt="Hackerrank" />
   </a>    
