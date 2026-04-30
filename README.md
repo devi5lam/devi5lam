@@ -4,9 +4,6 @@
   
   
   <a href="" target="_blank">
-    <img src="./assets/icons/solving/hackerrank.svg" width="32" height="32" alt="Hackerrank" />
-  </a>    
-  <a href="" target="_blank">
     <img src="./assets/icons/solving/spoj.svg" width="32" height="32" alt="Spoj" />
   </a>      
 </div>
